@@ -17,3 +17,4 @@ data/*
 # OS/editor
 .DS_Store
 .vscode/
+model/*.keras
